@@ -1,0 +1,1 @@
+# BeanInheritance_RealTime_DependencyInjection
